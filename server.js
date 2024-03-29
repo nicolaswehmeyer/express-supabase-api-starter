@@ -105,5 +105,6 @@ app.get('/languages/:name', async function (req, res) {
 
 // Run server
 app.listen(port, () => {
-  logger.info(`Example app listening on port ${port}`)
+  logger.info(`🚀 ExpressJS Supabase API Starter running on port ${port}`)
+  console.log(`🚀 ExpressJS Supabase API Starter running on port ${port}`)
 })
