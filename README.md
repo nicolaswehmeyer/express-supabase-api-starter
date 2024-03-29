@@ -1,6 +1,8 @@
 
 # ExpressJS Supabase API Starter
 
+![ExpressJS Supabase API Starter Header Image](image.png)
+
 A simple starter for an ExpressJS-based REST API that connects to a Supabase-backend.
 
 This example uses a table called "languages" and provides with CRUD (Create, Read, Update, Delete) examples.
