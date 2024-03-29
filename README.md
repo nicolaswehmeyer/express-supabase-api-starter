@@ -16,6 +16,7 @@ Install express-supabase-api-starter using npm or yarn and access on TCP port 30
   git clone https://github.com/nicolaswehmeyer/express-supabase-api-starter
   cd express-supabase-api-starter
   npm install OR yarn install
+  touch .env # Add your "SUPABASE_KEY" in here
   npm run start
 ```
     
