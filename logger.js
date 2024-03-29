@@ -1,7 +1,7 @@
 import * as fs from 'fs'
 
 function logToFile(message) {
-  const logStream = fs.createWriteStream('/var/log/api.log', { flags: 'a' });
+  const logStream = fs.createWriteStream('api.log', { flags: 'a' });
   logStream.write(`${message}\n`);
   logStream.end();
 }

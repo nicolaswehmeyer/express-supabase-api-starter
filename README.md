@@ -10,7 +10,7 @@ This example uses a table called "languages" and provides with CRUD (Create, Rea
 This starter should just help get you going quickly, but I highly recommend you follow the best practices outlined on the [ExpressJS website](https://expressjs.com).
 ## Installation & Usage
 
-Install express-supabase-api-starter using npm or yarn and access on TCP port 3000. Logs will be written to ```/var/log/api.log```.
+Install express-supabase-api-starter using npm or yarn and access on TCP port 3000. Logs will be written to ```./api.log```.
 
 ```bash
   git clone https://github.com/nicolaswehmeyer/express-supabase-api-starter
